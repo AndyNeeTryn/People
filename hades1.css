@@ -1,0 +1,19 @@
+.hadesf {
+width: 200px; 
+height: 100px; 
+background-image: (https://i.imgur.com/M32CwnL.gif); 
+position: relative; 
+z-index: 1; 
+margin-right: 100px; 
+border: 2px solid #FFDAB9; 
+margin-top: 30px;}
+
+.hadesj {
+width: 200px; 
+height: 100px; 
+background-image: url(https://i.imgur.com/cZBCcUw.gif); 
+margin-top: -195px; 
+position: relative; 
+z-index: 1; 
+margin-left: 100px; 
+border: 2px solid #FFDAB9}
