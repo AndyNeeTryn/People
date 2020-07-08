@@ -1,0 +1,12 @@
+. sacrilegio
+{width:120px;
+height:120px;
+clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+background-color:#333300;
+padding:2px}
+
+. grrrrrrr
+{width:120px;
+height:120px;
+clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
+background-color:#000000}
