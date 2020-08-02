@@ -1,0 +1,14 @@
+.amaero {
+background: -webkit-linear-gradient(left, #FFD700 , #5b1f87, #FFD700);
+-webkit-animation: letframe 10s ease infinite;
+-moz-animation: letframe 10s ease infinite;
+background-size: 1000% 1000%;
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
+font:40px Zeyada; 
+margin-bottom:-30px;
+position:relative;z-index:1;} 
+
+@keyframes letframe {
+50% {background-position:100% 0%} 
+100% {background-position:0% 100%}
