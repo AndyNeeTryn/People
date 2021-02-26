@@ -1,0 +1,19 @@
+ .myangel {
+ width:150px;
+ height:110px;
+ padding:10px; 
+ -webkit-animation: avasi 5s linear infinite alternate; 
+ -moz-animation: avasi 5s linear infinite alternate;} 
+ 
+ .myangel2 {
+ width:150px;
+ height:110px;
+ padding:10px; 
+ -webkit-animation: avasi 5s linear infinite alternate-reverse; 
+ -moz-animation: avasi 5s linear infinite alternate-reverse;}
+ 
+ @keyframes avasi {
+ 0% {background-color: #9573af} 
+ 30% {background-color: #9573af} 
+ 70% {background-color: #fdfd96} 
+ 100% {background-color: #fdfd96}}
