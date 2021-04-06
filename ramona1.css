@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap'); 
+
+.testeo {
+  width: 130px; 
+  height: 130px; 
+  -webkit-animation: maisus 10s linear infinite alternate; 
+  -moz-animation: maisus 10s linear infinite alternate; 
+  position:relative;} 
+
+@keyframes maisus {
+  0% {left:-136px; background-color: #AC83C4;} 
+  10% {left:-136px; background-color: #AC83C4;} 
+  45% {left:0px; background-color: #82F549;} 
+  55% {left:0px; background-color: #82F549;} 
+  90% {left:136px; background-color: #F7F784;} 
+  100% {left:136px; background-color: #F7F784;}} 
+
+.ensia1 {
+  width:100px;
+  height:100px;
+  border: 1px solid #AC83C4;
+  padding:15px;
+  position:relative;
+  z-index:1} 
+
+.ensia2 {
+  width:100px;
+  height:100px;
+  border: 1px solid #82F549;
+  padding:15px;
+  position:relative;
+  z-index:1} 
+
+.ensia3 {
+  width:100px;
+  height:100px;
+  border: 1px solid #F7F784;
+  padding:15px;
+  position:relative;
+  z-index:1}
+
+.redux {
+  width:130px;
+  font:13px Bebas Neue;
+  color:#000000;
+  margin-top:-17px;
+  position:relative;
+  z-index:1;
+  letter-spacing:1px;}
