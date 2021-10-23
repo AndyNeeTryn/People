@@ -1,0 +1,23 @@
+ .needle1 {
+   width: 318px; 
+   height: 10px; 
+   clip-path: polygon(0 50%, 100% 100%, 100% 0);}
+
+.needle2 {
+  width: 318px; 
+  height: 10px; 
+  clip-path: polygon(100% 50%, 0 100%, 0 0);} 
+
+.needle3 {
+  width: 10px; 
+  height: 70px; 
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);} 
+
+.needle4 {
+  width: 10px; 
+  height: 70px; 
+  clip-path: polygon(50% 100%, 0 0, 100% 0);} 
+
+.final {
+  font: 7px Calibri;
+  margin-top: -10px;}
