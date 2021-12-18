@@ -1,0 +1,24 @@
+.vamosla1 {
+  width:150px;
+  height:110px;
+  border-style:solid;
+  border-width:10px;
+  border-color: #9573AF #9573AF #9573AF #9573AF; 
+  -webkit-animation: notfra 5s linear infinite alternate; 
+  -moz-animation: notfra 5s linear infinite alternate;} 
+
+.vamosla2 {
+  width:150px;
+  height:110px;
+  border-style:solid;
+  border-width:10px;
+  border-color: #fdfd96 #fdfd96 #fdfd96 #fdfd96; 
+  -webkit-animation: notfra 5s linear infinite alternate-reverse;
+  -moz-animation: notfra 5s linear infinite alternate-reverse;} 
+
+@keyframes notfra {
+  0% {border-color: #9573AF #9573AF #9573AF #9573AF} 
+  25% {border-color: #fdfd96 #9573AF #9573AF #9573AF} 
+  50% {border-color: #fdfd96 #fdfd96 #9573AF #9573AF} 
+  75% {border-color: #fdfd96 #fdfd96 #fdfd96 #9573AF} 
+  100% {border-color: #fdfd96 #fdfd96 #fdfd96 #fdfd96}
