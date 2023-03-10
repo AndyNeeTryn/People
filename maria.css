@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Fleur+De+Leah&display=swap');
+
+.tiger {
+  width:150px;
+  height:120px;} 
+
+.curse {
+  width:150px;
+  height:120px;
+  background: linear-gradient(to bottom, #000000, #2250C7);
+  padding:10px;} 
+
+.fears {
+  width:150px;
+  height:120px;
+  background: linear-gradient(to top, #000000, #2250C7);
+  padding:10px;}
+
+.layers {
+  width: 516px;
+  font: 42px Fleur De Leah;
+  color: #7C94FF;
+  text-align: center;
+  padding-left: 3px;
+  margin-top: -2px;}
